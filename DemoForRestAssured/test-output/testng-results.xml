@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-28T16:30:11 IST" name="Default suite" finished-at="2023-06-28T16:30:13 IST" duration-ms="1818">
+    <groups>
+    </groups>
+    <test started-at="2023-06-28T16:30:11 IST" name="Default test" finished-at="2023-06-28T16:30:13 IST" duration-ms="1818">
+      <class name="DemoGet">
+        <test-method signature="demoGet()[pri:0, instance:DemoGet@2fb3536e]" started-at="2023-06-28T16:30:11 IST" name="demoGet" finished-at="2023-06-28T16:30:13 IST" duration-ms="1778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoGet -->
+      </class> <!-- DemoGet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
